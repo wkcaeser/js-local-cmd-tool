@@ -18,6 +18,7 @@ param-cli convert paramStr [arround]
 >> aaaa,  
 >> bbbb  
 >> ]  
+>  
 > param-cli convert '11111 aaaa bbbb' \"  
 >> [  
 >> "11111",  
