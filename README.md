@@ -13,21 +13,21 @@ param-cli convert paramStr [arround]
 ```
 
 > param-cli convert '11111 aaaa bbbb'  
-> [  
-> 11111,  
-> aaaa,  
-> bbbb  
-> ]  
+>> [  
+>> 11111,  
+>> aaaa,  
+>> bbbb  
+>> ]  
 > param-cli convert '11111 aaaa bbbb' \"  
-> [  
-> "11111",  
-> "aaaa",  
-> "bbbb"  
-> ]  
+>> [  
+>> "11111",  
+>> "aaaa",  
+>> "bbbb"  
+>> ]  
 
 ``` javascript
 param-cli file filePath [arround]
 ```
 
 > 使用方式和convert相同，原本的参数换成了文件路径  
-> param-cli file ~/param-list.txt [arround]  
+>> param-cli file ~/param-list.txt [arround]  
