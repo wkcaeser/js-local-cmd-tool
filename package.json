@@ -1,0 +1,12 @@
+{
+  "name": "jstool_wk",
+  "version": "1.0.0",
+  "description": "常用小工具",
+  "main": "jsParamParser.js",
+  "bin": {
+    "param-cli": "index.js"
+  },
+  "scripts": {},
+  "author": "wkCaeser",
+  "license": "ISC"
+}
